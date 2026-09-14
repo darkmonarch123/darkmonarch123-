@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Lagos, Nigeria 🇳🇬</h3>
 
 <p align="center">
-I write clean full-stack code and build practical AI tools — from fintech and healthcare platforms to blockchain signal bots.
+I write clean full-stack code and build practical AI tools — from fintech and healthcare platforms to blockchain .
 </p>
 
 <p align="center">
