@@ -93,6 +93,5 @@ I write clean full-stack code and build practical AI tools — from fintech and 
 **Open to new projects and remote work.** If you're building something and need someone who can own it front to back — reach out.
 
 <p align="left">
-  <a href="mailto:emmanueltemiloluwa441@yahoo.com">📧 emmanueltemiloluwa441@yahoo.com</a> ·
-  <a href="tel:+2347048767396">📞 +234 704 876 7396</a>
+  <a href="mailto:emmanueltemiloluwa441@yahoo.com">📧 emmanueltemiloluwa441@yahoo.com</a> 
 </p>
